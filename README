@@ -1,0 +1,12 @@
+Requirement: Python 3.9.18
+             other library that included in REQUIREMENTS.TXT
+             pip install -r REQUIREMENTS.TXT 
+
+
+Usage: 
+   RUN THIS IN TWO SEPERATE TERMINAL: python emotion-control.py ( run this one first )
+                                      python mainGame2.py
+
+
+
+
